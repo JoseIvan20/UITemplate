@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UiTemplate</string>
+
+    <string name="imageHome">Image</string>
+    <string name="textHome">Welcome to the UI Android</string>
+    <string name="p">Experience the extraordinary as our visionary UI design propels you into a world of endless possibilities, where innovation shapes the future. </string>
+    <string name="buttonStart">Get Started</string>
+    <string name="textDashboard">Profile</string>
+    <string name="back">Back Icon</string>
+    <string name="imageDash">Image Panel</string>
+    <string name="imageProfile">Profile Person</string>
+    <string name="nameProfile">Iván Jiménez</string>
+    <string name="mailProfile">ivanjg1029@gmail.com</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
+    <string name="btn4">btn4</string>
+</resources>
